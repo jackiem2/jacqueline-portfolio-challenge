@@ -1,0 +1,29 @@
+body {
+    margin: auto;
+    width: 50%;
+    background-color: #ecc6d9;
+}
+
+.box{
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+}
+header {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.about {
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    line-height: 2;
+}
+
+.pic {
+    text-align: center;
+}
